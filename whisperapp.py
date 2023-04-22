@@ -162,4 +162,4 @@ class WhisperPy(ttk.Window):
 
 
 WhisperPy(title='Whisper Python', size=(800, 600),
-          header_text='Whisper Translater', theme='vapor')
+          header_text='Whisper Translator', theme='vapor')

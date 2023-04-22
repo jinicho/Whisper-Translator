@@ -1,6 +1,6 @@
 # Whisper Translator
 
-Realtime English to Korean translater using openai's [whisper](https://github.com/openai/whisper) and Google's cloud API
+Realtime English to Korean translator using openai's [whisper](https://github.com/openai/whisper) and Google's cloud API
 
 # Requirements
 
